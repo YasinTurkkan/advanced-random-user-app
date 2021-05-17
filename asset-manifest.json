@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/advanced-random-user-app/static/css/main.a77c8afa.chunk.css",
+    "main.js": "/advanced-random-user-app/static/js/main.9dc1e1a4.chunk.js",
+    "main.js.map": "/advanced-random-user-app/static/js/main.9dc1e1a4.chunk.js.map",
+    "runtime-main.js": "/advanced-random-user-app/static/js/runtime-main.18995724.js",
+    "runtime-main.js.map": "/advanced-random-user-app/static/js/runtime-main.18995724.js.map",
+    "static/js/2.832488ac.chunk.js": "/advanced-random-user-app/static/js/2.832488ac.chunk.js",
+    "static/js/2.832488ac.chunk.js.map": "/advanced-random-user-app/static/js/2.832488ac.chunk.js.map",
+    "static/js/3.cc49490c.chunk.js": "/advanced-random-user-app/static/js/3.cc49490c.chunk.js",
+    "static/js/3.cc49490c.chunk.js.map": "/advanced-random-user-app/static/js/3.cc49490c.chunk.js.map",
+    "index.html": "/advanced-random-user-app/index.html",
+    "static/css/main.a77c8afa.chunk.css.map": "/advanced-random-user-app/static/css/main.a77c8afa.chunk.css.map",
+    "static/js/2.832488ac.chunk.js.LICENSE.txt": "/advanced-random-user-app/static/js/2.832488ac.chunk.js.LICENSE.txt",
+    "static/media/cw.22310668.svg": "/advanced-random-user-app/static/media/cw.22310668.svg",
+    "static/media/design.9f215bce.svg": "/advanced-random-user-app/static/media/design.9f215bce.svg",
+    "static/media/growing-up-man.5024153b.svg": "/advanced-random-user-app/static/media/growing-up-man.5024153b.svg",
+    "static/media/growing-up-woman.a1585842.svg": "/advanced-random-user-app/static/media/growing-up-woman.a1585842.svg",
+    "static/media/loading.11562bdd.gif": "/advanced-random-user-app/static/media/loading.11562bdd.gif",
+    "static/media/mail.42e0750e.svg": "/advanced-random-user-app/static/media/mail.42e0750e.svg",
+    "static/media/man.4b684e29.svg": "/advanced-random-user-app/static/media/man.4b684e29.svg",
+    "static/media/map.8e5a2a58.svg": "/advanced-random-user-app/static/media/map.8e5a2a58.svg",
+    "static/media/padlock.8d2c33d2.svg": "/advanced-random-user-app/static/media/padlock.8d2c33d2.svg",
+    "static/media/phone.d017e1ae.svg": "/advanced-random-user-app/static/media/phone.d017e1ae.svg",
+    "static/media/woman.05242306.svg": "/advanced-random-user-app/static/media/woman.05242306.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18995724.js",
+    "static/js/2.832488ac.chunk.js",
+    "static/css/main.a77c8afa.chunk.css",
+    "static/js/main.9dc1e1a4.chunk.js"
+  ]
+}
