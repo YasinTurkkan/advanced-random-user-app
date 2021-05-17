@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/advanced-random-user-app/static/css/main.a77c8afa.chunk.css",
-    "main.js": "/advanced-random-user-app/static/js/main.9dc1e1a4.chunk.js",
-    "main.js.map": "/advanced-random-user-app/static/js/main.9dc1e1a4.chunk.js.map",
+    "main.js": "/advanced-random-user-app/static/js/main.788dd22e.chunk.js",
+    "main.js.map": "/advanced-random-user-app/static/js/main.788dd22e.chunk.js.map",
     "runtime-main.js": "/advanced-random-user-app/static/js/runtime-main.18995724.js",
     "runtime-main.js.map": "/advanced-random-user-app/static/js/runtime-main.18995724.js.map",
     "static/js/2.832488ac.chunk.js": "/advanced-random-user-app/static/js/2.832488ac.chunk.js",
@@ -13,7 +13,6 @@
     "static/css/main.a77c8afa.chunk.css.map": "/advanced-random-user-app/static/css/main.a77c8afa.chunk.css.map",
     "static/js/2.832488ac.chunk.js.LICENSE.txt": "/advanced-random-user-app/static/js/2.832488ac.chunk.js.LICENSE.txt",
     "static/media/cw.22310668.svg": "/advanced-random-user-app/static/media/cw.22310668.svg",
-    "static/media/design.9f215bce.svg": "/advanced-random-user-app/static/media/design.9f215bce.svg",
     "static/media/growing-up-man.5024153b.svg": "/advanced-random-user-app/static/media/growing-up-man.5024153b.svg",
     "static/media/growing-up-woman.a1585842.svg": "/advanced-random-user-app/static/media/growing-up-woman.a1585842.svg",
     "static/media/loading.11562bdd.gif": "/advanced-random-user-app/static/media/loading.11562bdd.gif",
@@ -28,6 +27,6 @@
     "static/js/runtime-main.18995724.js",
     "static/js/2.832488ac.chunk.js",
     "static/css/main.a77c8afa.chunk.css",
-    "static/js/main.9dc1e1a4.chunk.js"
+    "static/js/main.788dd22e.chunk.js"
   ]
 }
